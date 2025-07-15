@@ -50,7 +50,7 @@ Licensed under **CC BY 4.0**. Created by **KnowNow Information** and **Energy Sy
 
 ## 🧭 Link to the Canvas
 
-👉 [Access the Data Management Canvas on Mural](https://app.mural.co/t/knownowinformation2260/m/knownowinformation2260/1670407726358/852acc7a38444cd93683f688f9389491f6a3cebd?sender=u5919506a21f5010613806629)
+👉 [Access the Data Management Canvas on Mural](https://app.mural.co/t/knownowinformation2260/m/knownowinformation2260/1729077601005/9bb885347ee3b891e400f8f3276e401f05912887?sender=u5919506a21f5010613806629)
 
 ---
 
