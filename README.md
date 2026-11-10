@@ -1,8 +1,19 @@
 # Data Management Canvas
 
-Welcome to the repository for the **Data Management Canvas**, a comprehensive guide designed to help you define and document the use and governance of data in your projects.
+The **Data Management Canvas** is a practical planning tool that helps you define how data will be collected, stored, governed and used throughout a project.
 
-This repository contains the complete documentation for using the Canvas, providing detailed instructions and best practices for effective data management.
+This repository provides a blank Canvas template on Mural and a supporting guide with explanations, exercises and examples.
+
+---
+
+## 🚀 Getting Started
+
+1. **[Start with the blank Data Management Canvas template on Mural](https://app.mural.co/template/2fbf0787-a035-4170-83f6-d70e5ed70b37/544d0c5f-1591-4c7a-900e-431f11929cdf).** Follow Mural’s prompts to create your own Canvas from the template.
+2. **[Read or download the Guide to the KnowNow Data Management Canvas](https://github.com/KnowNowInformation/DataManagementCanvas/blob/main/KnowNow%20Data%20Management%20Canvas%20Guide.pdf).** It explains the process and provides exercises and examples.
+3. Choose a project and begin by identifying its stakeholders and their data needs. Work through data sources and collection, storage, governance, and sustainability.
+4. Record any unanswered questions and agreed actions, and set a date to review your Canvas.
+
+For questions or feedback, please [open an issue](https://github.com/KnowNowInformation/DataManagementCanvas/issues) or email [contact@kn-i.com](mailto:contact@kn-i.com).
 
 ---
 
@@ -48,7 +59,7 @@ Licensed under **CC BY 4.0**. Created by **KnowNow Information** and **Energy Sy
 
 ---
 
-## 🧭 Link to the Canvas
+## 🧭 Link to the Blank Template Canvas
 
 👉 [Access the Data Management Canvas on Mural](https://app.mural.co/template/2fbf0787-a035-4170-83f6-d70e5ed70b37/544d0c5f-1591-4c7a-900e-431f11929cdf)
 
@@ -75,9 +86,9 @@ This documentation was created by:
 
 ## 🚀 Getting Started
 
-To get started with the Data Management Canvas:
+1. **[Start with the blank Data Management Canvas template on Mural](https://app.mural.co/template/2fbf0787-a035-4170-83f6-d70e5ed70b37/544d0c5f-1591-4c7a-900e-431f11929cdf).** Follow Mural’s prompts to create your own Canvas from the template.
+2. **[Read or download the Guide to the KnowNow Data Management Canvas](https://github.com/KnowNowInformation/DataManagementCanvas/blob/main/KnowNow%20Data%20Management%20Canvas%20Guide.pdf).** It explains the process and provides exercises and examples.
+3. Choose a project and begin by identifying its stakeholders and their data needs. Work through data sources and collection, storage, governance, and sustainability.
+4. Record any unanswered questions and agreed actions, and set a date to review your Canvas.
 
-1. Download the **Guide to the KnowNow Data Management Canvas**.
-2. Follow the step-by-step instructions provided.
-
-For any questions or feedback, please [open an issue](https://github.com/KnowNowInformation/DataManagementCanvas/issues) in this repository or email us at [contact@kn-i.com](mailto:contact@kn-i.com).
+For questions or feedback, please [open an issue](https://github.com/KnowNowInformation/DataManagementCanvas/issues) or email [contact@kn-i.com](mailto:contact@kn-i.com).
